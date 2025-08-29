@@ -4,7 +4,7 @@
 
 🚀 I’m focused on building **modern, high-performance, and scalable web applications**, with a strong foundation in **data structures, algorithms, operating systems, and networks**.  
 
-📺 **Watch my coding journey live:** [Twitch](https://www.twitch.tv/followthewh1terabb1t)  
+📺 **Watch my coding journey live:** [Youtube]((https://www.youtube.com/@VonStaff3n))  
 🔗 **Check out my projects:** [GitHub Repositories](https://github.com/FollowTheWh1teRabb1t?tab=repositories)
 
 ---
