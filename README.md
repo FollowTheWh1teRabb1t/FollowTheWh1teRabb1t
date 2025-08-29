@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Felipe José de Lima
 
-**Full Stack Developer | TypeScript & React | Documenting my coding journey live**
+**Full Stack Developer | TypeScript,React, Node.js, Nest.js  | Documenting my coding journey live**
 
 🚀 I’m focused on building **modern, high-performance, and scalable web applications**, with a strong foundation in **data structures, algorithms, operating systems, and networks**.  
 
