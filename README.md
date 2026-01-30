@@ -1,29 +1,30 @@
-# 🐇 Wake up, Recruiter...
+# 🟢 [SESSION]: FollowTheWh1teRabb1t
 
-## The Matrix has you.
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=code&color=00FF41&height=150&section=header&text=Follow%20The%20White%20Rabbit&fontSize=70&animation=fadeIn" />
-</p>
-
-### 🕶️ System Status: [Full-Stack Developer]
-> "You take the blue pill, the story ends. You take the red pill, you stay in Wonderland and I show you how deep the rabbit-hole goes."
+**Full-Stack Developer | Problem Solver | Tech Enthusiast**
 
 ---
 
-### 💻 My Terminal (Tech Stack)
-* **Languages:** `JavaScript`, `TypeScript`, `Python`
-* **Frameworks:** `React`, `Node.js`, `TailwindCSS`
-* **Tools:** `Docker`, `Git`, `Linux (The Real World)`
+### 📂 System.info
+* **Role:** Desenvolvedor focado em [Sua Stack, ex: JavaScript/Node]
+* **Focus:** Construindo aplicações escaláveis e código limpo.
+* **Status:** Aberto a novos desafios e conexões.
 
-### 📊 Matrix Activity
-![Seu Gráfico de Atividades](https://github-readme-stats.vercel.app/api?username=FollowTheWh1teRabb1t&show_icons=true&theme=matrix&hide_border=true)
-
-### 📂 Accessing Repositories...
-* [Projeto Alpha](link): Uma simulação de...
-* [Projeto Beta](link): Quebrando a criptografia de...
+### 🛠️ Tech_Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Searching_for_the_One-00FF41?style=for-the-badge&logo=matrix&logoColor=00FF41" />
-</p>
+
+### 🚀 Main_Projects
+* **[Nome do Projeto 1](link-do-repo)** - Breve descrição do problema que você resolveu aqui.
+* **[Nome do Projeto 2](link-do-repo)** - Explicação rápida da tecnologia principal utilizada.
+
+---
+
+### 📞 Connection_Methods
+* **LinkedIn:** [Seu Nome](https://linkedin.com/in/seu-usuario)
+* **Email:** `seu-email@provedor.com`
+
+---
