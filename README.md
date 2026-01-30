@@ -1,10 +1,4 @@
-# 🟢 [SYSTEM_ACCESS]: FollowTheWh1teRabb1t
-
-> **"Free your mind."**
-
----
-
-### 💻 OPERATIONAL_SKILLS (Tech Stack)
+ 💻Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
@@ -13,3 +7,8 @@
 | **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00FF41) |
 | **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF41) ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41) ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41) |
 
+ 📞 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/felipe-jos%C3%A9-de-lima-6338b233b/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=00FF41)](https://wa.me/5542999033921)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:lplpfwr@gmail.com)
