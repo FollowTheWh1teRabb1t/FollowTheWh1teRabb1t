@@ -1,38 +1,29 @@
-# 👋 Hey there, I'm Felipe José de Lima
+# 🐇 Wake up, Recruiter...
 
-**Full Stack Developer | TypeScript,React, Node.js, Nest.js  | Documenting my coding journey live**
+## The Matrix has you.
 
-🚀 I’m focused on building **modern, high-performance, and scalable web applications**, with a strong foundation in **data structures, algorithms, operating systems, and networks**.  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=code&color=00FF41&height=150&section=header&text=Follow%20The%20White%20Rabbit&fontSize=70&animation=fadeIn" />
+</p>
 
-📺 **Watch my coding journey live:** [Youtube]((https://www.youtube.com/@VonStaff3n))  
-🔗 **Check out my projects:** [GitHub Repositories](https://github.com/FollowTheWh1teRabb1t?tab=repositories)
-
----
-
-## 💻 Tech Stack
-
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+### 🕶️ System Status: [Full-Stack Developer]
+> "You take the blue pill, the story ends. You take the red pill, you stay in Wonderland and I show you how deep the rabbit-hole goes."
 
 ---
 
-## 🛠️ Focus Areas
-- **Full Stack Development:** React, Node.js, NestJS, TypeScript  
-- **Data Structures & Algorithms:** problem solving, performance optimization  
-- **Computer Fundamentals:** OS, Networks, computational logic  
+### 💻 My Terminal (Tech Stack)
+* **Languages:** `JavaScript`, `TypeScript`, `Python`
+* **Frameworks:** `React`, `Node.js`, `TailwindCSS`
+* **Tools:** `Docker`, `Git`, `Linux (The Real World)`
+
+### 📊 Matrix Activity
+![Seu Gráfico de Atividades](https://github-readme-stats.vercel.app/api?username=FollowTheWh1teRabb1t&show_icons=true&theme=matrix&hide_border=true)
+
+### 📂 Accessing Repositories...
+* [Projeto Alpha](link): Uma simulação de...
+* [Projeto Beta](link): Quebrando a criptografia de...
 
 ---
-
-## 🔥 GitHub Stats
-
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FollowTheWh1teRabb1t&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FollowTheWh1teRabb1t&layout=compact&theme=radical)
-
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Searching_for_the_One-00FF41?style=for-the-badge&logo=matrix&logoColor=00FF41" />
+</p>
