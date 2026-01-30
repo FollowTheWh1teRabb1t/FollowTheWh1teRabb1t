@@ -13,19 +13,3 @@
 | **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00FF41) |
 | **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF41) ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41) ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41) |
 
----
-
-### 📂 SYSTEM_FILES (Key Repositories)
-
-* **[PROJECT_01]** - `Explicação técnica concisa sobre sua melhor aplicação.`
-* **[PROJECT_02]** - `Outro projeto relevante focado em React ou Node.js.`
-
----
-
-### 📟 SYSTEM_TELEMETRY
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FollowTheWh1teRabb1t&layout=compact&theme=matrix&hide_border=true&bg_color=000000&title_color=00FF41&text_color=FFFFFF)
-
----
-
-### 📞 CONNECT_WITH_THE_SOURCE
-[LinkedIn](https://linkedin.com/in/seu-perfil) | [Email](mailto:seu-email@exemplo.com)
